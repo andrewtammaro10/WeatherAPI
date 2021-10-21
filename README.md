@@ -1,8 +1,9 @@
 # WeatherAPI
 
 Open Weather Map Temperature API
-Python Homework Assignment #1
-Institute for Advanced Analytics
+
+Python Homework Assignment #1, Institute for Advanced Analytics
+
 Professor Christopher Healey
 https://www.csc2.ncsu.edu/faculty/healey/msa/python/assn-openweathermap/
 August 31, 2021
